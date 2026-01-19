@@ -1,10 +1,10 @@
 # Hi, I’m Jyotil Agrawal 👋
 
-**Full Stack Developer | Software Engineer | Open-Source Enthusiast**
+**Full Stack Developer | Software Engineer**
 
 I build impactful software by combining clean backend logic, intuitive frontend design, and real-world API integrations. I enjoy working across the stack and turning product ideas into scalable, user-focused applications.
 
-I am actively seeking **Software Engineering Intern** and **Entry-Level Software Engineer** roles.
+I am actively seeking **Software Engineering Intern** and **Product Management Internship** roles.
 
 ## 🚀 Featured Project
 -I am currently working on learning Apache Kafak SpringBoot: [forage-midas](https://github.com/Jaycoder7/forage-midas)
